@@ -4,3 +4,4 @@ matplotlib
 statsmodels
 holidays
 seaborn
+arch
