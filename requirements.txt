@@ -5,3 +5,5 @@ statsmodels
 holidays
 seaborn
 arch
+scikit-learn
+pymannkendall
